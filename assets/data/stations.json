@@ -1,6 +1,6 @@
 {
   "538": {
-    "displayorder": 1,
+    "displayorder": 12,
     "genres": ["pop"],
     "language": "nl",
     "logosource": "https://res.cloudinary.com/onetuner/image/twitter_name/538",
@@ -189,7 +189,7 @@
     "website": "https://www.bigfmindia.com"
   },
   "bnr": {
-    "displayorder": 12,
+    "displayorder": 1,
     "genres": ["news", "talk"],
     "language": "nl",
     "logosource": "https://res.cloudinary.com/onetuner/image/twitter_name/BNR",
@@ -666,7 +666,7 @@
     "website": "https://qmusic.be"
   },
   "radio1": {
-    "displayorder": 5,
+    "displayorder": 2,
     "genres": ["news", "talk"],
     "language": "nl",
     "logosource": "https://www.nporadio1.nl/templates/perfecttemplate/images/logo-npo-radio1.png",
@@ -736,7 +736,7 @@
     "website": "https://www.100p.nl"
   },
   "radio2": {
-    "displayorder": 2,
+    "displayorder": 5,
     "genres": ["oldies", "pop", "rock"],
     "language": "nl",
     "logosource": "https://www.nporadio2.nl/templates/nporadio2/assets/images/logo-radio2.svg",
